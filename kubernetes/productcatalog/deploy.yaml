@@ -31,7 +31,7 @@ spec:
       serviceAccountName: opentelemetry-demo
       containers:
         - name: productcatalogservice
-          image: venkiaws/product-catalog:13134113508
+          image: venkiaws/product-catalog:18728685145
           imagePullPolicy: IfNotPresent
           ports:
             
